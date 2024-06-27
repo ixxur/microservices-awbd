@@ -1,0 +1,10 @@
+INSERT INTO orders (book_title, quantity, price) VALUES ('The Catcher in the Rye', 2, 39.98);
+INSERT INTO orders (book_title, quantity, price) VALUES ('To Kill a Mockingbird', 1, 19.99);
+INSERT INTO orders (book_title, quantity, price) VALUES ('1984', 3, 59.97);
+INSERT INTO orders (book_title, quantity, price) VALUES ('Pride and Prejudice', 1, 19.99);
+INSERT INTO orders (book_title, quantity, price) VALUES ('The Great Gatsby', 2, 39.98);
+INSERT INTO orders (book_title, quantity, price) VALUES ('Moby Dick', 4, 79.96);
+INSERT INTO orders (book_title, quantity, price) VALUES ('War and Peace', 2, 39.98);
+INSERT INTO orders (book_title, quantity, price) VALUES ('Harry Potter', 1, 19.99);
+INSERT INTO orders (book_title, quantity, price) VALUES ('Foundation', 2, 39.98);
+INSERT INTO orders (book_title, quantity, price) VALUES ('Death on the Nile', 1, 19.99);
